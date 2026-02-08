@@ -1,0 +1,531 @@
+Transaction_ID,Date,Client_Name,Product_Category,Unit_Price,Quantity
+07d1b815-eca3-4264-8cd8-1ec12bde4be2,2025-03-25,De Oliveira Chartier S.A.R.L.,Clotting,$389.54,14
+17da96cd-5a59-4654-8feb-214c691c5698,2026-01-19,Lebrun S.A.S.,Clothing,$32.14,8
+a6008bd3-529c-4c19-a915-5239665e2db4,TBD,Robert,Software,338.46,19
+69c0e851-82fe-4794-9a2e-d561db153ca2,18/07/2025,Pineau,Home,544.11,14
+5bae6c36-9346-41ab-a62e-1b6e5e3aa67c,2025-10-31,Leroy,Electronics,793 USD,15
+af4b0483-1b41-4a4c-8fef-aa5f99a030e6,2025-08-18,Boyer Grégoire SA,Home,640.28,18
+a0633138-65f5-4a43-89a7-20052a8debec,2025-05-01,Jacquot,Electornics,746.52,11
+de210974-489d-499e-9408-94ff583b8c20,2025-03-05,roussel,Software,433.38,20
+05556933-8214-495a-af5b-d6a007c2e6f7,2025-10-24,barre s.a.r.l.,Hom,533.02,95
+9dea572f-2bf0-47d9-84f4-b75625ce8f33,2025-10-28,Bodin,Electronics,1320.11,12
+8f5e3a5c-4452-4d1c-81f7-10f32aca7f92,2025-06-23,Texier,Electronics,148 USD,4
+d926e237-e981-43c2-a4e4-b1c74fc3f30b,TBD,Merle S.A.,Home,1254.02,55
+f28a7aaf-0096-4627-873b-4d1d515c9eec,2026-01-29,Renault,Electronics,"$1,453.80",8
+4077a111-4aa5-4cdc-8c02-c826094169ba,2025-05-24,Coste,Clotting,1067.58,10
+c5da4b08-9cd9-4f74-9ba5-428fe1ca49e5,2025-02-17,Huet et Fils,Software,585.26,5
+283b49f8-74b3-4d46-a113-69f3b40ce034,21/09/2025,Benard S.A.S.,Books,769.83,12
+abc838fe-116a-4793-ab3e-7e576c83fac9,2025-03-15,MAURY S.A.R.L.,Books,139.54,14
+d9dd6e31-4f09-409a-882e-ef8d1a73f5dc,2025-09-08,rivière pineau s.a.,Software,920.8,3
+752e68e2-bf02-4828-b0ad-6146b04474fd,2025-02-16,HERVÉ MUNOZ SARL,Books,898 USD,20
+ba3f9afd-3ab1-43f9-8eba-8ce366433f93,2025-05-07,Reynaud Laroche SA,Software,497.76,15
+4373c1cc-8baa-4e49-8f5f-cf287d0ea82d,11/11/2025,Roussel,Software,"516,41 €",83
+4ab07e76-b1cb-4531-ad68-d97bb73c1aaa,2025-11-04,Charrier Vaillant et Fils,Book,$668.65,9
+81278fe5-334c-4c6a-8bc0-df731d2c4698,21/02/2025,le roux s.a.,Electronics,"$1,005.12",18
+87765fa9-f414-42ec-82f9-65ab8966f85a,2025-10-19,Morin,Books,857.97,13
+312cb406-4934-4652-9808-219ab004de6c,2025-12-29,Philippe,Clothing,373.85,14
+81278fe5-334c-4c6a-8bc0-df731d2c4698,21/02/2025,Le Roux S.A.,Electronics,1005.12,18
+e97b67f5-b6a4-4744-bf2e-a7f02ac85a51,2025-10-25,  Ramos ,Electronics,318.18,14
+df5db98c-bcda-4fcb-8713-73c48e71c567,2025-06-06,petit s.a.r.l.,Books,$111.26,8
+9ac1e554-6716-46c5-bfd7-ab6a2203b5fb,2025-09-11,Turpin Bonnin SARL,Home,$512.88,13
+7be780ef-ec5f-46cc-9f19-6638ca186cec,2025-09-17,Reynaud,H0me,517 USD,20
+548c30d1-1e62-424c-b096-315e9feb6d76,2025-12-25,Morin S.A.,Books,678.43,14
+61822344-3765-4e58-b19c-19d149f64059,2026-01-19,MATHIEU,Books,640 USD,7
+2f9b3255-41f3-4ea1-8bfb-9a60c6f63408,2025-07-08,Aubert,Home,1493.93,4
+16205f81-da2b-4f90-b4fc-d2367e8f9af7,2025-10-13,  Ruiz S.A.R.L. ,Clothing,1499.07,16
+c98678fb-580a-4e64-bf3b-4678972b92b6,2025-09-01,Letellier,Clothing,1120.03,18
+d3747434-f300-4896-a53b-8d5890da1b0a,09/08/2025,maréchal lopez s.a.,Electronics,670.26,18
+4c52350d-da17-4cab-aebd-7b186417da1c,21/05/2025,Moreno et Fils,Clothing,697.11,9
+aa1ac173-bdd3-4216-9c37-7a0034a07dad,2025-05-23,MENARD,Software,1297 USD,2
+9c04fe73-f0fc-4166-ba41-d5558db0500d,15/03/2025,  Gillet SA ,Home,241.66,11
+fe8e624a-dc5a-41ba-af15-088250ece34e,2025-11-25,Blot Ollivier et Fils,Electronics,425.6,15
+b84ce306-ba7a-48d4-a87a-88ecddc0173d,2025-07-20,Pinto Vidal SA,Home,1132.68,14
+96ffbc97-3f70-4376-974f-7cace49394e6,2025-09-20,hardy,Boks,842.5,12
+d2cfda45-32e4-4f77-ac4a-0febfefb89fb,2025-09-28,LACOMBE LEROUX SARL,Home,997.25,13
+06a33a97-2f7f-47ed-afbe-fd7347cdc4ab,18/06/2025,Peltier,Software,1052.2,12
+713ea8f6-da8a-4f47-a45e-4b5a059cb2cd,Not a date,Chauveau,Home,$692.48,90
+9c04fe73-f0fc-4166-ba41-d5558db0500d,2025-03-15,Gillet SA,Home,241.66,11
+f5bdd72c-0e1f-4e3c-8755-778b63cefa12,2025-11-05,Paris Lambert SA,H0me,466.87,8
+1cb8e01a-7a3e-4252-913f-1b69bd362cd5,2025-07-27,  Barre ,Electronics,"344,80 €",4
+7b22335d-2591-43cd-b794-bd75e3962974,2025-04-18,Bertrand,Home,533 USD,17
+8d60ee44-f0a7-4e50-a07a-d3f85d753da4,18/04/2025,Carpentier,Clothing,"1.298,33 €",2
+9c17b8d8-07f4-4b8a-86f5-2c0b63677f2b,2025-05-07,Colin,Software,1309.53,68
+db8d21cb-7988-465d-b1f6-cb491e0c5919,2025-05-20,JULIEN,Home,1425.56,15
+a1102444-714e-4836-aa34-08b1801090ec,15/10/2025,Lebrun Texier S.A.R.L.,Books,$491.58,-5
+a26cbc75-d77d-4939-b4f6-4a02f1efd843,2025-10-22,Albert,Electronics,1278.5,3
+fdf3facc-39d9-4d85-a724-ea7d2dbbe8fc,2025-02-18,TEIXEIRA,Clothing,1133.69,8
+f79c000a-32fe-4ab1-8c7d-1d34ab54d799,2025-06-09,  Michel ,Home,1057.45,15
+7f8f3c03-b076-486e-b273-b0596ab7d903,2025-12-14,GUÉRIN,Clothing,"1.134,87 €",4
+f20af033-211a-4922-9b60-25a06123302a,16/05/2025,  Millet ,Books,1123.8,18
+a67fc600-7e90-4714-b362-955de192ed91,2025-07-29,Boyer SARL,Clothing,163.18,9
+ce0c4d0b-f16f-4e00-95c9-a88d4f7b92c1,2025-05-17,De Sousa SARL,Books,"553,64 €",5
+9e6fa4a5-0bb1-4605-8b19-3f67d206af4d,2025-06-21,  Leblanc ,Clothing,1103.36,9
+94f773d4-23e6-4e29-ab20-a98b03fa2e48,2026-01-20,  Legros Bègue SA ,Software,$559.19,72
+2793df3b-4a5c-47d1-8c3d-9c5c82d8d8cf,2025-02-16,  Foucher ,Electronics,363.44,19
+5f4eb627-e13d-46df-bd72-d85854d19f6f,05/09/2025,Hervé Navarro et Fils,Home,488.38,4
+4620d6a5-64d0-4752-b025-3bc49606cd97,2025-03-14,Gilles S.A.S.,Electronics,380.5,7
+3eddbe3d-7331-4a0a-b235-c4e3b1a221b0,2025-07-23,Morin SARL,Books,1005.6,-2
+21016295-587f-43eb-9f8a-9298af184624,2025-08-14,Berger,Electronics,$432.84,20
+d7693014-722f-46c7-937c-268242316a20,2025-04-14,Bouchet,Books,833.26,14
+2685c5f7-2459-44eb-ba19-5cb6ea7582c9,2025-05-11,Aubert Regnier S.A.R.L.,Software,$293.71,4
+6420dd8a-8072-4bc9-ba67-4d12e231520d,2026-01-28,  Muller Baron S.A.R.L. ,Home,$662.79,16
+62e36b81-d729-4649-9190-f3fbfb59908a,2025-03-12,  Delmas S.A.R.L. ,Clothing,110.43,2
+c5aaeef3-7dcc-4151-a6e8-90f666a62258,2025-08-19,Perrin,Software,677.93,12
+b7191527-5dd0-4f0c-a8a2-c179d6391e56,2025-04-04,SCHMITT,Software,1412.79,7
+79bc57c9-9f8a-43e7-ad07-f5f4e70039c5,2025-07-01,perrier sarl,Electronics,85.38,18
+c7c878f3-cdba-49a0-927b-1ff2768b78ef,2025-10-03,Carlier S.A.S.,Electronics,"1.286,53 €",19
+0d5c1953-541c-43f5-9fbd-acad74aac73e,Not a date,Robin,Clothing,769.19,3
+01ef273c-2a0e-4e4a-a0ac-ce6db7ab2238,18/07/2025,Meyer,Clothing,615.56,16
+d3f6a8d1-1a2a-47cc-9e1d-d2bbd993282f,2025-10-24,Antoine Mathieu S.A.S.,Clothing,1453.38,19
+d6feda0c-e169-4509-931b-55d53f03deca,2025-10-10,Laurent et Fils,Electronics,47.27,9
+301b5683-f8e5-485c-8864-5ffe9173d6bb,2025-05-17,  Chauveau S.A.R.L. ,Home,"1.272,77 €",20
+548c30d1-1e62-424c-b096-315e9feb6d76,2025-12-25,Morin S.A.,Books,678.43,14
+5368bdc1-1a89-40c0-9881-0001854269b0,2025-04-11,Goncalves Pinto S.A.R.L.,Clothing,253.47,13
+243d59fa-1106-42ae-bf4f-579630f4c87d,2025-02-19,Lelièvre Paul et Fils,Softwaree,181.02,8
+3d57f5b3-e99b-429f-89ed-4516c2246572,2025-08-11,Ramos,Home,999.3,12
+f1bde510-8c7a-47d0-a94c-fea7dfe1c362,Err Date,Bourdon,Books,757.67,9
+fca32631-a2e9-405a-b4da-ab6dc291d0a1,2025-10-12,Bonneau S.A.S.,Electronics,273.95,16
+1d6e084f-14a6-4202-95ca-9ba9ef7f3430,2025-03-28,De Sousa,Home,144.55,13
+c7aa6f1b-8ebc-44e7-bf57-574b7fd47f99,2025-02-19,Hoarau S.A.,Electronics,$967.70,5
+54459274-5d42-4e31-b118-6a733c97adaf,Not a date,Goncalves,Software,424.18,12
+eaf84591-6b89-416a-9818-900cdff6ed9f,2025-06-26,ledoux sarl,Home,"1.430,85 €",16
+713ea8f6-da8a-4f47-a45e-4b5a059cb2cd,2025-07-08,Chauveau,Home,692.48,1
+d1d2de4d-8ca1-416e-822a-e834a25792ed,2025-04-19,Lambert et Fils,Home,$870.25,3
+950d5f35-e9b3-4acb-b51e-f63ec4514fc1,14/04/2025,Garcia,Home,534 USD,15
+fa86c097-5022-4d47-9b38-102d2bbe0092,2025-03-20,Lecoq,Electronics,1025.75,18
+a4cc0540-b50b-4535-b59e-bfb759340d56,2025-06-13,Boulanger SA,Software,874.69,9206
+b19b4647-c8e8-438a-be90-a64acf4e718d,2025-08-12,Marie SARL,Home,"1.146,14 €",18
+e1661807-eb57-4bc6-b985-773551d3ce7b,2026-02-01,muller,Books,132.16,19
+582f4868-673a-4395-a31a-ba00672920d3,2026-01-03,Prévost,Clothing,861.98,8
+b566f4a0-6d7c-49e5-a00a-80337b02ea84,28/02/2025,DE OLIVEIRA PERRIER S.A.S.,Home,"$1,151.06",17
+fd7cdaa5-cd34-4eb0-9e3b-0ad3a8bedc93,2025-07-18,seguin,Electronics,917.4,9
+5ee67134-bc39-456d-ae54-e4e5add781f7,2025-05-14,Giraud Marion S.A.,Home,266.09,20
+e036c78b-bb8c-49f7-938e-e2e2adbf0a57,2025-12-03,Seguin et Fils,Software,"390,44 €",1
+95644563-a6f1-45ba-8778-66ea748428d4,2025-06-09,Roux S.A.,Books,$346.98,14
+91497f72-cd77-4c6c-84ff-6afa20264fbe,27/09/2025,Collin S.A.S.,Software,499.11,3
+ebc8e862-bd96-4b43-a30e-2e423879c984,2025-06-23,Bonnin,Sofware,$933.37,8
+338a5a52-5bb8-4449-9931-f8c00bfb1ac2,2025-07-12,DAVID,Electronics,1015.51,16
+abcfa33e-8332-4bec-b35b-5ac40f89bcc4,2025-08-19,Martineau,Hom,1095.53,11
+161f5ac0-9e6f-4675-8c83-fc46450ccdcf,2025-07-26,Lecomte,Software,$408.93,12
+88ce4fa7-1514-4e8e-b123-a1948152378c,2025-06-05,Duval,Software,$515.01,15
+b7191527-5dd0-4f0c-a8a2-c179d6391e56,2025-04-09,Schmitt,Software,1412.79,49
+e7ece7d8-1808-4efc-9755-a47be5030a6d,2025-03-30,Vidal,Software,"537,90 €",14
+dcb95ca5-deb6-49ae-9db9-6ad5c2386199,2025-12-24,CHAUVET,Books,577.73,12
+d558e082-100b-45c8-bd80-8590af0ae381,2025-11-11,Lejeune Bègue S.A.,Software,1299.24,15
+94f773d4-23e6-4e29-ab20-a98b03fa2e48,2025-11-19,Legros Bègue SA,Software,559 USD,9
+eab02671-e20f-4d96-aa2e-77fd5a9a895d,2025-10-28,Devaux,Home,977.37,4
+44d2d251-fb69-41fc-aafe-75f115e05397,2025-11-01,Salmon S.A.S.,Software,943.86,9
+723eb010-c94d-401a-b6e1-81f9590c0127,2025-10-20,Turpin SARL,Electronics,1142.95,4
+627799d7-b55e-4646-bd51-275dc2395c91,2025-03-11,Morin S.A.R.L.,Home,916 USD,3
+338a5a52-5bb8-4449-9931-f8c00bfb1ac2,12/07/2025,David,Electronics,1015.51,16
+5855f80f-37ff-493d-8cbc-a4bc4a178caf,23/05/2025,Leleu SARL,Software,46.93,11
+926375dd-2f3c-4ffc-97e5-26d2cdf2d090,2024-02-30,  Hamel SA ,Home,149 USD,8
+5a1650de-9d14-4e4a-949d-ed8e200926b3,2025-10-21,Lambert,Electronics,1121.71,7
+d08605d9-d7f6-4188-a3ba-142f478119c3,30/04/2025,Bousquet S.A.R.L.,Clothing,392.89,4769
+1134a8c0-655b-425c-a04c-99547e46adf9,2025-12-18,Maillet Ruiz S.A.,Books,1252.25,10
+22476657-0165-452e-84af-0c5dd428ff78,28/06/2025,Coste,Electronics,404 USD,4
+60cb0616-7d3e-4298-b2d4-032fa3356b69,2025-07-16,Bertin,Electronics,84 USD,16
+5653731c-a1a6-45cb-b683-ca9c67acfe26,2025-08-27,garcia,H0me,1257 USD,19
+56b48462-d87d-4bed-853b-579fa5579905,2025-03-27,COLLET SARL,Home,866.47,10
+e87813f4-f1ee-44e8-be0c-8706cbfcc97f,2025-04-17,Loiseau,H0me,"280,42 €",19
+4598b6a3-6d74-483d-92bf-f40d31796147,2025-08-14,faivre,Electronics,660.7,4
+f1d365c3-3c37-4a53-81ed-80cf931ee238,2025-10-24,GEORGES LAURENT S.A.S.,Books,"1.315,93 €",12
+2685c5f7-2459-44eb-ba19-5cb6ea7582c9,2025-05-11,Aubert Regnier S.A.R.L.,Software,293.71,4
+c1839996-abc2-4455-85c5-65d926b3a615,2024-02-30,Monnier,Books,$912.09,4
+a72b85e4-65f9-4fb2-9563-349a71f303ca,2025-06-27,Lacroix,Clothing,561.57,7
+82a4ed9b-8f20-45b4-b8ab-db48f3adff22,2025-06-26,Delaunay SA,Home,1185.03,2
+a42b6a37-c810-41d1-b589-8ffbd646b8f6,2025-05-11,andre maillot sa,Books,1135 USD,7
+92a3fb07-6d7a-4958-b84b-a05a6fd03eb0,2025-07-26,Huet,Home,1373.73,8
+9b79d242-e9d4-4a95-842a-7e1b7270ac28,2025-10-04,Weber,Home,88.07,14
+70409918-2e2d-4520-a290-c7906419a801,2026-01-04,PASCAL,Electronics,1356.07,2
+c7760fe6-ccfb-4b8b-b707-1d8aa131702b,2025-06-10,maurice jacques et fils,Home,$498.90,1
+f6290306-24de-4c72-bee4-eb8de46a1bd2,2025-05-28,Besson,Clothing,121.49,9
+dad7ee10-5bbb-4f9b-a3b2-867900eece8f,2025-05-18,Lecomte S.A.S.,Clothing,1234.49,11
+bfbf5a37-ae65-440d-bba4-b69128fc2a71,2025-10-25,Laine,Electronics,221.39,1
+bcce49ec-52f9-4d6e-872e-dc638ace6357,30/07/2025,mace et fils,Software,14.84,9
+75c7c08a-a1e8-4d46-a767-b246ef42da89,2025-11-20,Noël,Clothing,958.56,20
+0c163fe3-423d-4682-8f18-a5a88a36a113,2026-01-14,wagner grenier s.a.r.l.,Books,715.05,6
+41c179bd-1161-47e7-999a-88907920a0a6,2025-11-21,Coulon Vasseur SARL,Clothing,580.72,5
+22bb674d-049b-4de4-88f4-d93d8c319d22,2025-04-01,Aubert,Clothing,$407.91,5
+18e787b2-c114-4065-bb96-8f6f80ca2fda,2025-12-28,Leroy,Home,247.2,4
+22d3e978-5c51-47d0-b99f-d4f91627ece7,TBD,potier,Clothing,$853.82,13
+4e40d27d-b0a9-4f6a-85c8-fd5a02954f49,2025-09-19,Guillon,Home,1123 USD,14
+9c14a23b-88c5-47ba-a4c3-e6ec40ce72fa,2025-10-26,  Martineau Henry SARL ,Home,250.76,15
+47991c6b-684f-46db-974e-b55d9c20ddbe,2025-11-20,Benard,Clothing,$137.56,14
+2d30aaab-22ec-4570-a525-330ddfa4aae5,2025-11-26,Hebert S.A.,Electronics,1312.54,15
+4de9927c-86db-4e1c-b5d9-5b2dee9a9957,2025-04-30,Joseph,Software,$635.55,11
+dd2d1d66-58d8-4a41-b490-d146cfa55c92,2025-09-20,Pruvost Vasseur SA,Hom,"604,50 €",12
+1c0e955f-49b5-4e01-80bd-95bf300c4201,2025-02-07,  Clément Guillot et Fils ,Software,702.66,19
+0b72b08b-fe98-45fe-b7a5-4560765159f3,2025-05-03,Gomes S.A.R.L.,Clothing,1030.08,2
+e08ebc21-1827-4aad-8e36-4ec3ad363776,2026-01-02,Roussel Gillet SARL,Electronics,1284.42,4
+30de25b3-1191-484f-90dd-2f0215772626,2025-12-31,Moreno SA,Electronics,850 USD,7
+e086702a-d62a-4651-b590-9743da5840ef,12/10/2025,BONNET S.A.R.L.,Books,207.14,19
+33c6feb8-2382-4f14-b273-444a04021c32,2025-08-01,Bouvier S.A.S.,Books,735 USD,10
+c90635cc-8368-4a7c-82cf-bf83b5fdca3b,2025-07-12,Lagarde,Home,136.92,8
+6ffbda21-db03-4d1b-b8c1-08cf0c9e08a9,2025-10-25,Legrand Pichon SARL,Software,257.88,10
+17e64b70-69db-4ae1-80b7-233ab4f93fb1,2025-07-05,TANGUY,Books,130.06,5
+437529a9-edec-4764-a7d1-6532b12c18be,2026-01-11,Lemaître Jacquet S.A.,Books,788.95,9
+88a84ecb-6a88-474f-a8fa-b8c19babb9ce,2025-11-02,DUMONT,Software,164.22,11
+b9ec92cc-3296-41a6-a973-365dedada9dd,2025-06-03,grondin,Software,972.4,-1
+cbf3ce5c-f4c0-4275-9b57-6004adc4fd2a,2025-05-19,  Pottier Germain SA ,Home,"$1,484.39",18
+d6b09c2d-01fa-4d07-aa3a-9b6c3e8c106d,2025-11-13,Huet Henry S.A.,Home,181.61,1
+a3a9a6bf-8b75-46eb-bdb1-6875be7e225c,2025-08-15,  Dupré ,Electronics,901 USD,14
+62b350d0-138f-47bb-b7e4-9ae891aa4750,2025-09-06,Lamy,Home,838.13,17
+203efe07-b92a-4295-b73c-a5708a81de76,2025-11-09,  Vasseur ,Books,$306.27,18
+8c945fac-b785-4625-bc70-921ec8e185fd,12/01/2026,Laurent,Books,63.68,12
+8baa8ecc-9b14-4431-b86b-e0f6c33acb08,2025-09-01,  Joseph SARL ,Books,917.37,5
+e5070215-9c7b-41f2-804c-ca0310abe97c,2025-11-28,  Brun ,Home,"1.130,49 €",14
+634a528f-5ffe-4d42-b41a-620c6c26b379,2026-01-09,  Roussel ,Hom,1232 USD,10
+72332570-18ce-46c5-bee4-314b8951d421,03/05/2025,Chevalier,Electronics,995.28,10
+8db57fbb-c1b5-491e-bbb5-381fdd386ffc,2026-01-10,Godard Mallet S.A.,Clothing,1375.95,10
+51dcd84c-1edd-4d19-866a-1c9dd957e48e,2025-12-07,baron s.a.,Electronics,1038.52,7
+fb16cb6b-9597-42b8-8637-caae6bd5e316,2025-02-16,Morin S.A.,Electronics,"54,40 €",7
+302ef777-b50f-4157-b23e-b86dc40c1427,2025-07-28,LÉGER,Books,433.67,16
+46175fc7-30cc-44eb-ab61-a643e373139f,2025-11-15,Chauvet,Electronics,892.23,8
+29663b6a-7b25-47f4-9e69-2f0a490acd2e,22/08/2025,Lopes Laroche S.A.R.L.,Home,41.34,18
+e174e132-9d72-43d6-a1ab-449907a2a376,2025-09-18,Perret Rodriguez SA,Books,737.91,2
+1b4a4d61-1183-46c5-b9e9-5a1795a6ba45,2025-08-15,diallo,Software,1352.8,18
+072aaeb4-337a-47fb-8418-b97c2808c06e,Not a date,BRETON,Electronics,351.1,19
+5c38d7d9-820b-44bb-9361-edff0332e9f2,2025-05-17,Hoarau Vallet S.A.S.,Software,$222.88,5
+34f2c052-12bc-4f7b-9efb-096eb3295c3a,2025-12-14,Turpin,Electronics,"1.048,82 €",10
+cf519322-9a1f-48ab-849e-fa6e152d1c75,2025-11-21,Roger,Electronics,1014 USD,9
+161f5ac0-9e6f-4675-8c83-fc46450ccdcf,2026-01-10,Lecomte,Software,408.93,7
+240e227a-1b48-4299-b7bd-dcb00972ef48,Err Date,Rocher Briand SARL,Home,1216.05,1
+659aa90c-de6e-44d3-aa31-f41c0ae36c2d,2025-04-09,  Rodriguez ,Software,"1.358,21 €",19
+41ed6bf6-1bbe-4066-9ff1-b43dd395fa53,2025-05-12,Le Roux Faure S.A.S.,Clothing,$489.07,16
+b8b6f88d-5332-480c-9050-2a9e112be916,2025-02-07,SANCHEZ ET FILS,Books,323.84,11
+61273154-6c26-41f9-b613-ec158560c16e,2025-09-23,Evrard,Books,1494.22,17
+a8db2d5c-27ef-4fed-aafb-f7f5ca7f7025,2025-04-13,Girard,Clothing,46.39,8
+b0001f9f-c3a5-4d81-b21c-dd1950ed3e88,02/01/2026,Perrin,Electronics,956.75,15
+bf4b690e-7565-444c-a3b6-efa2dfa4babf,2025-12-12,Da Costa Leroux et Fils,Clothing,$72.32,2881
+3303370c-a8cc-4f02-a414-8a14bece3424,2025-12-03,LEGENDRE,Books,"1.061,44 €",18
+5962cf69-8591-4691-8d7d-68e9e97565db,2025-03-16,Boulanger Bouchet et Fils,Books,814.57,15
+6fbbf73c-06f3-4286-8319-5f7327e5c44c,2025-06-20,CHRÉTIEN,Clothing,414.86,11
+df829110-d3ae-4517-b87a-6527ace843e8,2025-03-26,  Roger ,Software,$672.60,8
+5922b62f-74ab-4b78-b4ea-dedb44619d00,2025-10-08,Neveu,Books,"$1,019.25",13
+3c072af4-6dbf-4fc7-b136-6ffef92b2402,2025-09-27,Turpin,Home,765.61,14
+ba3f9afd-3ab1-43f9-8eba-8ce366433f93,2025-05-07,  Reynaud Laroche SA ,Software,497.76,15
+7c52ddd6-e614-41b8-bed3-d640716859e2,2025-10-28,Marin et Fils,Clothing,814.92,6
+e6481c0e-b093-4fe9-a34b-de2b1b111ce6,2025-06-05,besson,Softwaree,1032.29,16
+0b999b13-8b5d-45fb-9af3-28ba74940e1b,2025-06-15,Bernard,Electronics,53 USD,20
+c5e0c4fb-ead3-477b-897a-a8e3c2340930,04/03/2025,FERNANDES S.A.,Clothing,460 USD,5934
+c1768526-8a8f-41f9-b6f9-136bdd24c7d2,2025-09-27,Diallo Barbe S.A.R.L.,Software,162.86,1
+e1ec2aca-ecae-4b05-9da9-e935eda50ffa,2025-12-15,  Delannoy ,Sofware,"950,76 €",9
+b36a430a-e0ac-4bd8-87ed-29e07a57b960,2025-10-25,Chauvet Colas SARL,Electronics,784.68,18
+cded8979-ea5b-4ee9-baa3-003cb38884bd,01/05/2025,Petitjean et Fils,Clothng,112 USD,18
+bfa35d35-7d21-467b-8155-07ce862cf723,2025-11-13,Nicolas,Books,"714,28 €",16
+d3f147f3-bf8d-4582-9069-bbd154d79860,2025-03-04,  Pinto ,Home,1093.79,5
+3e805c3c-033c-4dce-a204-d4f44cd06d26,2026-01-16,Dos Santos S.A.,Book,1224.36,17
+92540794-3ede-425b-aa16-c7dc9af1c1ed,23/11/2025,Fleury,Electronics,589.4,13
+d483d902-f015-48a6-9222-584ee62cb6fa,2025-05-11,  Pascal S.A.R.L. ,Book,445.28,5
+aa3f574d-6703-4085-8735-80f26ee6320a,2025-12-09,Bègue et Fils,Books,894.56,15
+1e68d25c-6d03-49fb-bc46-ab0ea8e65612,2024-02-30,Lefort et Fils,Books,"895,18 €",13
+03df33a8-0474-4731-b202-f525b5325191,2025-12-26,Loiseau S.A.,Software,280.78,9
+dbfaab02-e84e-4ed6-b1fc-73cb06d3e68e,2025-02-26,Mary S.A.R.L.,Hom,1390.51,15
+ead2bb89-5734-40b9-959e-2e7aa1d965fa,2026-01-21,Morvan Da Silva SARL,Clothing,1034.37,9
+aced07cb-a65e-49ff-851a-57e33829d552,2025-05-25,Faivre,Clothing,1080.34,86
+e7dde1a7-88a3-4c6e-9b62-1d73c1832f83,2025-07-25,PARENT,Home,609.58,10
+42f0bc04-49c9-49a6-99c7-8f46bf86754f,27/04/2025,Payet,Clothing,872.59,2
+9295a841-ca3e-4170-8ece-8921aa0aac91,2025-12-31,  Pineau S.A.R.L. ,Software,668.82,7
+6227f4a5-bdce-4ba6-8cfe-eb8d5466da1b,25/07/2025,Martins SARL,Electronics,"710,32 €",14
+8912cad5-2e7e-4ef5-a30e-51b686b69a98,30/09/2025,raynaud et fils,Electronics,653.5,12
+75a872ee-666d-4fc3-a886-9e8217e3e643,TBD,Da Costa Blanchard SA,Books,935.33,20
+135ec9d0-429e-42b4-9cb3-db5a1d93722e,2025-04-25,rey boulanger s.a.,Book,"618,09 €",9
+263dedee-226b-420c-82d3-ece8d73333d9,2025-12-31,Muller Valentin SA,Software,240 USD,10
+1aeef1d8-6dd0-4287-a74c-904a3019b210,2025-03-11,Baron,Home,921.4,17
+2513aa87-0454-4aa0-8402-53aed282645a,11/08/2025,  Paris Besnard SA ,Electronics,690.13,15
+8199adae-9dc6-4735-b22d-8896adf2db02,Err Date,Bernier Ollivier S.A.R.L.,Softwar,336.07,17
+cb9b11d2-c144-4304-8269-d08c9abeff10,2026-01-30,Bruneau,Home,"344,09 €",3
+3d9e259b-d262-4cde-a11b-56815b39d860,2025-11-01,  Masse Jacob S.A. ,Books,"$1,061.06",14
+d823d6a2-38c0-4223-bdfe-5989c7ec29ad,2025-04-09,  Vallée ,Clothing,425.03,8
+7201d8c3-7478-4cf1-8881-80ddba82c2aa,20/03/2025,Diallo Lévêque SARL,Software,1067.15,14
+f3d5ba2d-0c31-4f2e-af3d-545cacc05efa,2025-03-20,Maréchal S.A.R.L.,Clothing,451.41,12
+3cf9cdce-adb9-4b0e-9f87-dbf9f97aff10,2025-10-11,Bonnet S.A.R.L.,Home,1163.81,20
+0d47849d-5f2e-4f05-848d-3e8f2d62b5c1,2025-03-17,  Morel ,Electronics,1349.4,7
+4bcc5c4d-f145-48df-b0ae-41553d8f3b63,2026-01-09,Mace,Electronics,1280.66,18
+bba5ae32-3f0b-4781-b31e-fb4b455b72df,2025-07-04,Becker,Electronic,970.55,3
+c139279f-bab4-4486-8e67-36f54fa4f732,2025-07-25,Arnaud,Clothing,1363.53,5
+c5dc368f-40b1-42be-8185-bd9975615abd,2025-02-12,  Le Roux S.A. ,Books,634.5,5
+178d72cd-2c91-4560-a28d-6934949b588c,Not a date,Mallet Humbert S.A.R.L.,Clothing,1272.44,12
+d5a2b5eb-a43a-4309-86c4-31a2b5c31056,10/01/2026,Perret Sauvage S.A.,Books,"340,11 €",20
+4ba9cb90-99ff-47cc-9a46-de6964f39f19,2025-04-28,GOSSELIN,Books,$88.02,11
+5a02f8bc-294c-49ad-bc30-1a39215e205f,02/06/2025,maillard,Electronics,243.23,14
+7bc2eb69-d541-41f0-9886-0fbb327539f7,23/12/2025,Garnier,Clothing,268.51,5
+5de72057-9314-4e38-a91e-43b9c05a1aa7,2025-03-13,Dumont,Clothing,419.77,19
+f1e79086-f8b7-4349-87a6-6c7fb886ba67,2025-09-05,Courtois S.A.R.L.,Books,64.68,-5
+99bd6678-de15-4058-8c0f-7c3f0ab6fb57,2026-01-04,Schneider,Sofware,$517.65,2
+aa3a06f8-d0e4-43bb-a08f-f36e66622a89,2025-03-25,Laine,Electronics,1424.03,15
+0b6d312f-b61b-4f18-a933-c4cd5e3cc016,2025-02-28,Weber,Books,104.66,13
+68129481-eaef-4e7e-93f5-1b2ff1868319,2025-11-01,Lenoir,Electronics,583.94,19
+d3803510-06d1-47e5-91c2-b153884e25ed,2025-10-18,Barbier S.A.,Software,120.38,2
+05556933-8214-495a-af5b-d6a007c2e6f7,2025-04-28,  Barre S.A.R.L. ,Home,$533.02,6
+ac00cb67-c114-472c-82c3-c14252cf3164,2026-01-21,Rémy SA,Electronics,379.38,3
+49fb645d-6c58-4dd1-9ecf-29f1e242c1be,2025-06-03,Fournier,Electronic,955.08,9
+764f8f83-2972-451f-905e-1c8e51a00ff7,2025-03-21,Buisson,Books,"$1,426.67",9
+919781ad-f599-4b7b-bf54-47370f753d37,2025-12-17,Robin,Books,1125.95,19
+483362c3-804f-4a9f-84da-9eaf80cabaa8,2025-02-27,Le Gall Valentin et Fils,Electronics,1421.91,7
+74cb2e14-6895-47b3-bf40-149690dd6b58,2025-10-10,Charpentier,Electronics,21.45,10
+2aa0fa71-314d-490e-b2cb-95896362d208,2025-12-14,Caron Laurent SA,Home,323.17,19
+f861d4ea-ca8f-4f8e-9345-e330aab31729,TBD,Navarro,Software,1037 USD,16
+e7c1c5c5-5a66-4b4f-9828-cce10ec662d0,23/12/2025,Leroy,Clothing,"838,99 €",19
+28d90549-aabf-4198-bb23-c1e5b37e3b45,2025-05-12,Bazin et Fils,Home,1456.91,1
+8dc805b9-8a86-4925-b1d5-dcae8f9b877b,2025-07-03,Gautier,Boks,"1.025,88 €",6
+3d4443be-3e11-4316-9cb8-db44bcdb5398,2025-06-04,Delorme SA,Electronics,1126.05,2
+89f4d455-326d-4907-abee-dc7a9d7a2231,05/08/2025,Lejeune,Home,664.34,15
+8eff1f47-4e80-4a24-8e73-80df217bf686,27/04/2025,Guyon,Books,$199.66,14
+dc56a69b-aaa6-4987-ba2d-5d406ec90b66,2025-09-14,Gilbert Guilbert S.A.S.,Electronics,145 USD,3
+f98fc022-af6a-490b-9bdc-484c8489a147,2025-04-10,Jacquet S.A.S.,Software,1019 USD,6
+7e5849bb-3804-40a1-8b1f-616ff262e36e,2025-08-17,Bonnet Lebreton SA,Clothing,665.25,16
+52a17ff1-a485-4a59-b8c0-cda1f485da30,2026-01-02,Bertrand,Software,1470.56,8
+99957dc8-844a-46e9-ae21-44826d773303,2025-04-20,Boulanger,Clothing,1464.55,6
+fdca71a6-3eca-466c-9c6c-0d342c05fcaa,2025-12-30,Launay,Electronics,423.14,5
+0634a91e-714b-4ac4-864d-23ffb4d32db6,2025-12-14,Martineau S.A.S.,Clothing,405.77,5
+aa72d2fb-f87b-4150-9840-00accc72be24,2025-04-26,Delorme,Home,938.5,4
+e6c46f7e-0007-4251-b839-8ce219156fad,06/09/2025,ROCHER,Electronics,1084.71,11
+a0b94a03-7285-4225-8ffa-499933d53af7,2025-03-12,Noël Pinto SA,Home,386.07,4
+da3153b4-1cbf-4e18-850b-d83eaea43182,2025-05-31,Lucas SARL,Home,691.26,3
+4379d5c0-6c38-477e-8e45-680baa402a8c,2025-04-15,BOUTIN,Books,846.91,4
+dbc50eed-1618-4cc3-bcfe-dba4cd550b72,20/01/2026,  Bonnet ,Clothing,77.57,2
+54bdd5bc-d96f-4401-b6d1-db9ebf67593f,2025-06-02,Hubert Laurent et Fils,Books,1126.72,8
+361ac327-3cb8-4e62-8a66-129e1cffbc30,2025-09-11,Perez et Fils,Software,720.7,12
+b0d744fe-1b30-446b-a85b-2d430961b3dd,2025-12-23,Henry Grenier SARL,Clotting,365.43,16
+d7c974c8-1a3a-4677-a606-c92a042cf556,2025-12-16,clément,Clothing,418.72,1700
+3cf9cdce-adb9-4b0e-9f87-dbf9f97aff10,2025-10-11,BONNET S.A.R.L.,Home,"$1,163.81",20
+101e5161-f11a-4515-ab6e-a937ca2a8704,2025-07-21,MOULIN LAPORTE S.A.R.L.,Hom,$938.66,13
+2f9b3255-41f3-4ea1-8bfb-9a60c6f63408,2025-07-08,Aubert,Home,1493.93,4
+dbad311f-5281-4da7-a96b-c85a2f0c9953,21/11/2025,Gay SA,Books,1448.38,11
+baf331c5-11e8-4091-a1aa-724b7b3b7d8b,2025-11-27,Maillot,Softwar,536 USD,14
+f2d566fd-9dc7-4556-bcd2-394f25098b9a,13/06/2025,Pineau,Sofware,1421.12,5
+9329560f-d24a-408b-a3c0-9266b21b1ca0,2025-06-20,potier,Software,1205 USD,8
+84e4881a-8510-4b6e-92b6-996e07e1f091,2025-02-21,Lefèvre,Electronics,"$1,086.44",14
+481d3248-aab4-41f0-890a-6a5427c9ffcd,2025-11-07,Pons,Clothing,1128.21,19
+abbe2499-23b8-47f0-a696-81b577294cc5,2025-07-08,Nguyen SA,Home,$650.57,10
+d99e9bfc-cf3e-47c1-8b72-272674a1ca4d,2025-05-23,Berthelot,Books,1214 USD,18
+c1c8628f-232d-426b-ad12-d8b389c154a6,2025-03-18,Barre,Home,464.73,8
+b163629e-bfdd-4bbc-961b-5a7fc6f4f4e0,2025-07-20,Lacombe,Electronics,338.57,20
+5e0d4c84-a954-47a9-a7c6-9de5d76b2623,2026-01-24,collin,Clothing,1383.58,17
+97e6e131-3f02-42f0-85e3-04d061f8bdb5,2025-05-14,collet,Clothing,"914,53 €",12
+18037cc7-0aeb-4c3b-afc4-c11ddbf5ae8c,2025-07-14,De Sousa,Elec,1093.59,17
+fec5ca86-db48-4b5f-a61b-b42428ed69ef,2025-10-19,Marty Ruiz et Fils,Books,234.78,2
+f91c8eec-28c2-4616-b8c3-946534e2bd30,2025-03-24,  Muller Salmon S.A.S. ,Software,985.83,16
+926375dd-2f3c-4ffc-97e5-26d2cdf2d090,2025-04-02,Hamel SA,Home,149.15,8
+76c98e51-175b-4dec-81f2-1271b4b528a1,2025-12-25,Georges,Clothing,782.47,20
+e4615cdc-fa2f-46e1-bd7e-fccbc55c3d9b,2025-08-25,albert,Clothing,883.71,8
+311ca79e-99ed-4daf-8d3a-8b5e8491d248,2025-07-12,joly sa,Electronics,707.81,3
+121ed09b-b4bf-481a-ac0a-0ecb334396fe,2026-01-19,Lacroix,Electronics,$15.28,5
+d564ae9e-d058-4ce2-a78f-46d1b31665a5,05/07/2025,Laroche,Home,818.49,14
+b0e08903-3c4e-4f6a-af88-7ac41e461307,TBD,  Diaz ,Clotting,950.43,10
+b0e050bc-1cae-46cb-bf69-59625631e08d,Err Date,Jacquet,Software,1364.48,19
+31608f85-3ce5-4a70-99af-c32c6adfa036,Not a date,Blanchard S.A.,Home,"$1,019.87",5
+182c70bb-44e4-4efe-96a5-e3bf74dd550c,2025-06-15,Delahaye,Books,1146.68,13
+d8e856ed-b9ff-4114-8e84-37fbc6460c72,2025-05-10,Bourdon,Books,985.51,15
+082e020d-081c-4c89-ba38-145186dc8608,2025-06-23,Pruvost Breton SA,Books,1353.53,12
+d5c61514-6a5c-49cb-b0ad-e41d1036bc46,2025-08-31,olivier fabre et fils,Home,340.18,8
+8fc867a1-28fd-4269-951a-ae07906458cd,24/07/2025,HARDY,Electronics,472.51,15
+4b19612b-cab7-49e0-9c06-4e153866ce08,2025-09-20,Riou,Electronics,78.53,2
+f75c1d1a-898f-457d-9605-dcbd326fa104,2025-05-15,Diaz Baron S.A.S.,Software,84.83,8
+ad3d6443-c2a8-4909-89a8-bd7cc0cf4397,2025-10-05,Allard,Software,$75.03,16
+9afaacb8-1ed6-4809-8b7a-ee997fe2315c,Unknown,Fouquet SARL,Electronics,171.52,14
+d926e237-e981-43c2-a4e4-b1c74fc3f30b,2025-09-27,Merle S.A.,Home,1254.02,16
+03138662-cff7-4d82-803e-86f06ad4b601,2025-11-04,Guérin,Clothing,"$1,165.78",13
+338da7ea-c014-4166-9845-efa6fb7b6e58,2025-03-22,Gomes Mathieu et Fils,Software,"$1,191.47",3
+7afcea19-39ad-44ae-bc03-92a5b59e323e,2025-11-22,Gomez Goncalves S.A.,Electronics,176.69,5
+6042ea60-1b48-44df-97ed-c966109153fa,2026-01-03,LOUIS,Clotting,1003.73,12
+b0001f9f-c3a5-4d81-b21c-dd1950ed3e88,2026-01-02,Perrin,Electronics,956.75,15
+3eddbe3d-7331-4a0a-b235-c4e3b1a221b0,2025-12-08,Morin SARL,Books,1005.6,11
+f4189af6-f46e-4e75-b28d-269bd86af30f,2025-04-06,Parent SA,Books,1462.07,20
+f1bde510-8c7a-47d0-a94c-fea7dfe1c362,2026-01-13,Bourdon,Books,757.67,9
+9c17b8d8-07f4-4b8a-86f5-2c0b63677f2b,2024-02-30,  Colin ,Software,1309.53,16
+ba3f9afd-3ab1-43f9-8eba-8ce366433f93,2025-02-20,Reynaud Laroche SA,Software,497.76,17
+5483eaba-ddea-4682-a377-d6b94dd72cb9,2025-11-24,Toussaint,Software,955.83,16
+be70c6f7-e9d9-4d87-ae8f-0802edea7715,2025-09-10,BAZIN,Clothing,"659,16 €",13
+a3b646f7-ee83-4c0e-8bf2-55edaa7e811f,2025-02-25,Martins SARL,Clothing,561 USD,1206
+68be18f7-d60c-498c-9372-abd42bbad952,2025-11-05,Guilbert,Books,241.62,10
+8b75451f-9fd7-4cf6-9e6b-befc9bcbf774,2026-01-23,Legrand,Electronics,994.98,1
+eddded77-fea4-4729-9526-2b79d0d94e5d,2025-11-21,  Roger ,Electronic,1467.14,13
+95bb96ba-7050-4ef3-83a5-950770cf87dc,2025-11-06,  Martin ,Software,1022.48,18
+7f154af2-a329-4310-91af-d2bcaff928df,03/12/2025,Blanchet,Electronics,$85.36,11
+da0e3ade-4f5d-4b49-9b09-5237aff5ce7f,2025-05-30,Brunet Besson S.A.,Electornics,"$1,307.07",10
+e2b1b86b-d23a-4a20-8d87-be91821c59d1,TBD,Jean Dos Santos S.A.,Electronic,501 USD,18
+7047269a-bcd8-4ef0-9675-1dc9f6901ebb,2025-08-04,  Maillet et Fils ,Home,1006.78,7
+2a0a25ba-9a40-4e43-9206-15f26dae7961,2025-08-02,VINCENT,Software,783.26,15
+19f6e1dd-a25d-423b-89dc-859d6f216ce0,10/05/2025,LEGENDRE SA,Books,"100,83 €",11
+12d9eac0-e08e-4ad5-b1e7-16a7acd24cdd,2025-08-05,BESNARD,Home,1089.63,17
+08d68d26-6dc3-402b-b44f-26708af8deb6,2025-04-27,millet,Books,1347.74,16
+101efe06-63ef-4476-afc3-f6db6620894c,2025-09-08,Coste S.A.S.,Books,"$1,071.11",13
+3ef7c7c1-24e2-4907-9fad-21a341eba39f,12/12/2025,Martineau,Softwar,$627.52,19
+6f55ec39-18f3-4452-9d88-695fe55c39f7,2025-08-31,Hoareau SA,Home,"$1,212.62",-1
+2428c8f6-4afb-45f0-9e28-2d9805305100,2025-10-05,Bazin Briand S.A.S.,Clothing,"1.190,20 €",14
+d5ec2440-a54e-4dbf-9fc9-8d450850100f,2026-01-13,Meunier,Clothing,"986,60 €",13
+6f308861-13e4-4d77-a36a-e22e9fdc9da9,2025-04-04,Andre Legros S.A.R.L.,Software,1346.84,16
+a3d85f87-fbcf-478b-bd35-3312f244fa37,11/07/2025,bailly sarl,Clothing,552.69,3
+5274215d-3034-4865-806c-64992e64e823,2025-03-31,Robin et Fils,Books,"326,98 €",16
+a42a1e7b-993b-4201-8d4a-0db412ceb732,2025-06-20,Arnaud S.A.,Electronics,"$1,452.91",20
+d315d42b-6b97-40ea-92bf-b236cf486e30,11/07/2025,Berthelot,Home,"490,23 €",8
+998fd084-0336-41a0-a2ee-27bede4bfb22,24/07/2025,Raymond,Clotting,1007.89,11
+a47458a1-b9fc-46b3-8a1d-89154ed498b6,2025-09-05,Aubry Evrard S.A.S.,Electronics,"137,62 €",16
+e774a124-dc83-4a58-96a6-b873a622cbd1,2025-03-25,Henry,Electronics,1116.89,6
+dfb1f513-ab08-48b4-a3aa-16a2095b94da,2025-04-02,Marchand SARL,Books,492.42,6
+57a0e983-2849-46a0-9c55-18722cb7ed76,2025-08-17,Gaillard,Books,"$1,120.31",10
+e021ddeb-f46c-4788-a687-255994543ee8,2025-03-12,Launay,Electronics,1497.89,13
+6fb53d2b-8887-48ee-bb27-15a9a7c9c563,2025-07-23,Leroy,Clothng,105 USD,14
+32f1b768-9b36-44cc-911e-169ebba83306,2025-05-28,Barbier,Electronics,447.32,6
+3fd3bc8d-dd51-43b3-8019-84b7ff67d372,2025-07-25,Paris,Electronics,770 USD,4
+886707a7-3c52-4012-a2cc-841f285fd949,TBD,  Brunel ,Clothing,$650.80,8
+7478854c-ecd1-4010-9a4a-11e0c4fb937c,2025-06-16,De Oliveira S.A.R.L.,Clothing,1447.43,4
+7288c7eb-2e79-4037-979a-e4795a80b639,2025-12-21,Descamps S.A.S.,Books,69.95,6
+a513c097-6e94-4c4a-96e6-8d25a28d25d0,2025-10-23,Mary,Electronics,1365.35,11
+77a36f9e-ea27-4c0e-9012-789dbfcb5bf4,2025-04-12,BARBIER SA,Clothng,232.3,19
+e6c5bd81-ca62-443d-8ed3-94056fd64689,2025-04-27,Salmon Adam SARL,Books,"898,37 €",2
+31913ec2-5db9-4bfa-bcaf-86ad847aea15,2025-05-05,Guilbert S.A.,Clothing,762.98,1
+5141cc25-93b2-437e-9048-fdf9dde3be00,2025-09-22,Klein,Electronics,841.53,-1
+726145e6-43a8-486b-a177-a828a560b3c7,2025-08-26,Marchal Guichard SARL,Electronics,94.77,10
+21c6c76f-54b9-4728-8ac9-d5489fe5bf79,2025-09-26,Wagner Le Goff S.A.,Books,405.15,12
+b5bf11e2-a012-43da-89a8-895c4ae6bc05,09/05/2025,Dupré,Clothng,736.45,12
+0d72de55-0b2b-4d0b-bae2-101fb3c6fe92,06/03/2025,Ruiz,Electronics,601.64,2
+024abd00-bb3a-4c7f-8456-b8c56bcc9bd9,2025-12-31,Fernandez Lopes S.A.R.L.,Electronics,527.33,14
+34b0b2ab-35d7-4b37-8752-a9b49add9cb9,2025-03-20,Lefebvre,Clothing,1153.35,9
+ca834c5e-3a29-4b01-9af1-cbd63de207c3,2025-06-12,Legros,Software,396.2,8
+c284dd23-edbb-4427-95dc-fd04b6395009,20/03/2025,Bernier S.A.S.,Electronics,692.85,19
+27c9ed96-f69d-4cb5-9d0e-879c72e6aa6d,2025-10-13,Didier Auger SARL,Software,1298.72,1
+3659ee02-1a00-4820-b56b-65eac3c346f7,2025-09-29,Marques,Electronics,"1.275,87 €",16
+d405ec9e-fdec-41b8-847f-0c50cc3ead55,28/04/2025,Ramos Masse S.A.S.,Clothing,"886,78 €",1
+917d4cda-ff19-402f-83cf-8eb31d580fc3,11/01/2026,dupuis,Books,1378.56,20
+cd364794-314d-4407-8030-d1aae04b0a66,2025-07-09,Vasseur,Books,605.11,-3
+47d7a996-577b-49fc-997e-9f13605610dc,TBD,Lesage et Fils,Home,$58.63,10
+c5a75f00-b334-43eb-a4c9-251f9876b9d6,2025-09-28,Legendre,Software,1431.67,16
+ce5206df-9141-4834-98fd-89a53eb56ae3,2025-10-25,Chauvin,Electronics,1133.81,8
+d2825423-4c0d-45d1-bb3f-3338918df250,2025-03-08,Fournier Hoarau et Fils,Books,93.7,17
+f3cd785c-5c84-48f3-8c12-6ddef08c4d7e,2025-10-16,Delaunay,Books,1315.79,11
+f0257e30-0b02-48d1-b033-cec48ebcabd8,2025-09-16,Meyer Descamps S.A.R.L.,Software,$629.82,4
+2e170f91-ba54-4716-a94a-932d5799f317,2025-11-03,Dupuy,Software,837.21,8
+fcda1d36-5371-4f62-89d9-0f74c15e3f3d,2025-10-18,  Lamy Noël S.A.S. ,Books,1485.15,10
+a4616df5-da92-4581-afed-1fd025b76706,23/03/2025,Robin,Electronics,"359,85 €",18
+a36f43cc-ef98-4077-8666-976b0c68241d,2025-08-11,Leroy et Fils,Clothing,501.41,16
+0ad50439-ac5b-455b-94f9-1147ab3a440b,2025-12-17,Lévy,Electronics,"1.340,06 €",4
+223e302d-32cd-4ffa-bcf3-ffca96e8bec4,2025-09-22,Sauvage S.A.S.,Clothing,1483.34,19
+f539cbdd-875d-4398-bb04-8403c959eb69,2025-07-23,Berger S.A.R.L.,Clothing,$576.51,8
+4bf7c07f-2af5-4e53-b1e0-1130f551eeae,2025-07-12,  Antoine ,Sofware,913.25,17
+0b824d8e-2544-4f28-b5a5-16294ff90825,2025-08-06,REYNAUD CORDIER S.A.,Electronics,1064.68,2
+4533196e-4f55-4208-85c6-323b72f3fac8,19/10/2025,Ferrand,Home,276.07,9
+ac709a43-0b4b-401c-954b-291b3cc53b1c,2025-09-17,Morel,Clothing,$307.36,15
+d3f6a8d1-1a2a-47cc-9e1d-d2bbd993282f,Unknown,Antoine Mathieu S.A.S.,Clothing,1453.38,19
+70939408-3d9a-4ad8-8a96-d5d2f70c6218,2025-05-22,Fabre Ledoux SARL,Clothing,1050.23,11
+32d9e95f-c2b3-437b-8b9f-38e0173a2946,Err Date,Picard Roger SA,Electronics,"1.279,13 €",18
+66068714-442d-48c5-9bbf-65829fc54615,2025-04-08,Jacquot Pires S.A.S.,Software,202.14,3
+e6526c6a-6fe6-4a41-940f-8b2a0afeebb2,2025-06-21,BOUCHET,Home,115 USD,8
+1936edf4-9e9a-48e4-a124-4713affe36e8,2025-09-17,Gérard,Books,30.37,14
+1997e6d5-f7d3-4746-b076-341bf206b7a3,2025-10-02,verdier,Electronics,$832.54,20
+2d306cc3-3440-475e-8332-36978cf593f8,2025-12-03,  Vasseur ,Home,$344.71,7
+6d3e2c32-3e55-4544-88e3-b2df25b69160,2025-10-10,Marie,Home,"$1,155.21",11
+40486c5e-a01a-4fbf-90b8-04c84fd4e23c,2025-10-19,clerc riou s.a.s.,Clothing,589.08,12
+7af4cff8-7f42-4449-b01d-29bd756a68c8,2025-06-24,Arnaud,Software,619.07,11
+5b7c274e-e072-4a63-95b1-16c7c920822d,2025-05-20,Peltier,Books,1015.72,18
+1060670a-463e-4435-805e-e54353bb0c4c,15/02/2025,  Germain ,Electronics,655.95,12
+7e30f995-31c7-4ae1-82fb-699aab5e5b97,2025-04-04,Mercier,Software,119.5,3
+79b16fa7-186d-4c3b-b449-e0570ba4ceed,Not a date,De Sousa SA,Home,909.53,1
+af7e01c0-24be-4e37-a38a-0806d3a07c03,2025-06-06,Besnard Mercier S.A.R.L.,Home,340.14,6
+f794d8ec-9e77-47b4-a59d-1461fe964ec2,2025-07-18,MOREAU,Clothing,$552.21,10
+ed92dd00-8a00-4ac3-99d0-8b442fad5c83,2025-05-07,Masse,Clothing,270.85,20
+b1197d34-698c-4275-9ef0-73a146723627,2025-12-24,Collet Dumas SARL,Software,"$1,494.98",18
+39a805f2-2386-46e6-889f-219d981a1f48,2025-03-16,  Étienne ,Books,$48.26,10
+c46d377f-84ae-456a-99bc-a86a5cddcc43,2025-07-23,BRETON,Books,1210.24,19
+e164d476-081b-4ed3-95a1-9bc955a56ce5,2025-05-09,Courtois,Software,"941,86 €",2
+20f0eb3b-6c5f-4963-9df1-6da1238e3013,2025-06-30,Rodriguez,Electronics,$379.14,15
+3a1387ea-5b26-4b19-87c8-0298a331d907,2025-09-12,Bourdon et Fils,Home,1412.18,16
+361ac327-3cb8-4e62-8a66-129e1cffbc30,2025-07-13,Perez et Fils,Software,720.7,86
+713ea8f6-da8a-4f47-a45e-4b5a059cb2cd,2025-07-08,Chauveau,Home,692.48,1
+55c6ab2c-05ef-4199-8184-b609e507fa56,01/02/2026,Roche,Software,1399.65,10
+b7a693bf-c417-4e13-a5f7-713b0a60958a,2025-04-22,Gimenez Poulain S.A.S.,Home,22.07,2
+391bddb1-d70d-480f-b44c-1e206d48bff3,2025-03-11,Parent Bruneau S.A.S.,Elec,1034.2,9
+9f2d856d-a8f4-459c-a639-ac376ea6f304,2026-02-04,Sanchez Allain et Fils,Clothing,1260.45,20
+d360d5bf-6d31-4684-adaa-33366f0e9dad,2026-01-16,Raymond,Software,605.48,5
+096a6ace-76bd-4a28-8c6a-264baeb41e5c,2025-05-17,Guillou Gautier et Fils,Books,1145.32,17
+7c300b33-404c-4219-ac6f-e31f405ca2d5,2025-04-15,lecomte,Software,1063.89,14
+02192142-7f41-453c-896d-e223100a6339,2025-09-24,De Sousa,Boks,179.34,3
+4958d619-b11c-4a6a-8733-eb795f1736e9,2025-11-21,Marty S.A.,Books,805.84,13
+4373c1cc-8baa-4e49-8f5f-cf287d0ea82d,2025-08-18,ROUSSEL,Software,516.41,17
+ad1c9867-5ffd-401b-a06a-6b6db0440349,2025-10-28,Aubry Toussaint S.A.S.,Software,"$1,363.67",10
+e7e5e390-fce4-4ea3-b76a-377145ea040d,2025-10-09,renard,Home,1398.32,4
+dca78984-6e63-4896-8fce-e138378430c5,2025-10-29,Delannoy Langlois S.A.R.L.,Clothing,201.3,16
+d55ab107-aea9-431f-84e3-fe1e8de05885,2025-03-20,Ollivier S.A.R.L.,Electornics,997.53,20
+61b74cc5-2a39-4f2e-a2d5-232577556750,21/05/2025,Hubert Joly et Fils,Clothing,"342,58 €",4
+7e32f02c-ad03-4074-b156-d20a26ea1f80,20/08/2025,Peltier SARL,Clothing,506.71,19
+143c0ec9-db7f-45f5-8c23-5f75519a8652,2025-07-01,nicolas,Sofware,271.7,5
+c9af88a3-dcd4-4f05-8cfe-e9a303f251fa,2025-11-15,Muller,Home,"$1,319.30",10
+b8641d29-c820-4cf4-b9fb-40cbd05ccceb,2025-05-02,Marty S.A.S.,Home,"645,88 €",9
+d7961981-ffa0-4995-9db3-faeeefe5437c,2025-02-26,Letellier SARL,Clothing,574.67,13
+aa80c5e5-4dc9-4216-b61f-40e15dcc68b1,2025-06-27,Guillou et Fils,Clothing,912.78,-3
+cee913f2-0e0c-49c3-95b9-14a0f3bc1e8c,2025-11-24,Masson S.A.,Electronics,"$1,293.04",5
+4c78d473-5e51-4bb0-8acf-59a0281ce455,2025-06-16,LEMAÎTRE LANGLOIS ET FILS,Books,557.67,9
+16da5637-2f2b-4fa2-ac4e-be3868b9394c,2025-12-21,Navarro,Clothing,404 USD,3
+0d7cf6fe-339b-4239-972c-832145a27177,2025-09-11,  Muller ,Home,533.95,19
+a1365cf7-e0cd-4235-8574-c565327afde1,2026-01-27,  Blanc ,Software,1123.05,6
+5855f80f-37ff-493d-8cbc-a4bc4a178caf,2025-05-23,leleu sarl,Software,$46.93,11
+d452b815-6d88-43d4-94b3-306a397f0eea,2025-03-21,Huet S.A.S.,Software,"1.451,23 €",18
+3bd342e8-706d-4717-b8a1-30972f237ca9,2025-10-03,Legrand S.A.S.,Software,188.63,19
+9f93ec27-d83e-4108-9ddf-4c6625227515,2025-05-29,  Delmas S.A.R.L. ,Software,1370 USD,5
+b163629e-bfdd-4bbc-961b-5a7fc6f4f4e0,2025-07-20,Lacombe,Electronics,"338,57 €",20
+71af5fd0-2b41-4cc7-9f77-a332ce2cca5b,2025-07-18,Gimenez Faivre et Fils,Electronics,1467.2,18
+0a979d8b-998d-4540-8110-682a49cecbb7,2025-11-24,Techer Pereira et Fils,Home,$690.69,10
+71c2f2c2-3e49-4bcd-a80e-e509b8941d9d,24/03/2025,Lagarde,Clothing,367.4,18
+60bc91c2-6ab6-40dd-81cb-d2e6dd64dff3,2026-01-08,BAUDRY SARL,Clothing,332.41,16
+70dc4fbc-944d-4a5e-9644-b9d7cfb5f8c6,06/09/2025,Techer,Books,195 USD,13
+f6905f07-8d61-437b-833c-40c5525e63ce,2025-03-07,  Parent ,Software,1399.95,7
+621d3b1a-684a-4cd1-a916-5b48c73fcc08,18/05/2025,payet,Clothing,94.75,17
+3feecdaf-197a-4d98-b6de-0bb14ef39ff8,2025-04-12,Roux,Electronics,"603,23 €",7
+cd42a1a7-18ae-4f5b-83ab-dc0f9e7feae5,2025-09-19,BOUSQUET,Electronics,98.86,10
+82002761-13e0-4925-b1e1-9617bef9a0dd,2025-11-08,Huet,Books,"$1,481.96",20
+7b739fd0-dd4c-4849-9744-edc6c750bbe5,2025-10-27,MAHE GUILLON S.A.,Book,63.49,3
+39a805f2-2386-46e6-889f-219d981a1f48,2025-11-10,étienne,Books,"48,26 €",88
+a3bac479-09c9-4a16-a242-ff2196c6b85b,2025-08-24,Marchal Perret SA,Home,1409.46,4
+86bf7b31-e037-4939-b0f3-46bb15e663ad,2025-06-07,Munoz,Softwar,831.38,13
+c7760fe6-ccfb-4b8b-b707-1d8aa131702b,2025-12-15,  Maurice Jacques et Fils ,Home,498.9,40
+a864e889-7981-451f-b904-c5bae952238e,2025-10-27,Dumas,Software,1447.59,5
+fd2c181f-526f-40cf-ba11-d8aa747cb843,2025-06-16,roux fleury s.a.r.l.,Books,431.67,4
+3c51b064-d969-4dc4-8b83-2c72d0ef5984,22/10/2025,Navarro,Books,256.04,17
+c0ea284d-1d2a-4ea2-b2d8-57293703c404,23/01/2026,Delahaye,Home,"$1,122.37",11
+9df3d38e-c0c3-4b8c-ab99-2577afb391c7,2025-11-26,Rodriguez Delmas S.A.R.L.,Clothing,"96,31 €",19
+1feacbfd-0250-4393-84dc-bcecbbe08139,23/09/2025,Ruiz S.A.S.,Electronic,761.78,6
+26a0d0f4-8a5b-451f-bf8c-82cb9035883e,2025-07-01,Robert,Software,$125.45,-4
+2c10837c-111c-4784-be3e-a326d74ba1db,2025-03-26,Rossi,Software,996.29,16
+94e5e097-bf96-4e4c-9c30-e19adc450586,25/12/2025,Lelièvre SA,Clothing,"1.262,35 €",5
+4bf7c07f-2af5-4e53-b1e0-1130f551eeae,29/09/2025,Antoine,Software,"913,25 €",83
+4d6b7b75-00d7-4314-b2e3-0f7277d86a1a,2025-11-26,Schmitt et Fils,Software,"$1,249.72",12
+d38ae497-c530-4875-ac56-d70e3f1520e6,2025-06-15,Lopes,Clothing,416.67,16
+80411188-f733-4a34-8b43-07033d317365,2025-09-17,lebreton s.a.s.,Software,1024.89,19
+b9a1ff88-c2fa-49ac-b1fb-57b27124b843,2025-05-04,Lemonnier,Sofware,1247 USD,18
+e4d9fe20-5364-4002-92e7-8e1385a71c69,2025-03-03,Rolland SA,Software,"$1,350.42",15
+4a59036b-e853-4a1d-8daa-84eb0508c1cb,2025-08-19,Pinto,Software,"$1,134.12",19
+97a03f9f-e9cf-4a7e-8d27-8e67d62ad2e8,2025-02-26,Duhamel Chevalier SA,Home,"738,02 €",4
+b7628adf-1fb9-4270-9896-8b248b2e3b16,2025-10-09,Legendre Deschamps et Fils,Boks,455.74,14
+c036dcaa-af65-4388-8e93-cc4e72d3e426,20/09/2025,Roussel,Software,834.67,12
+8833e4e7-1b19-4865-9237-33b20d204e71,14/03/2025,Toussaint Lecomte SARL,Electronics,1234.95,13
+7c7d0c0e-07c4-4ad5-a6f5-80840c01be60,02/02/2026,Raynaud et Fils,Books,956.12,18
+798dafe8-c7fa-4b0c-898d-d30d2656d3e6,05/03/2025,Aubry,Books,731.67,11
+e8578d1f-7dd6-4700-a9d4-812cc86f63fd,2025-06-13,Garnier Gros et Fils,Home,867.88,19
+aced07cb-a65e-49ff-851a-57e33829d552,2025-08-29,FAIVRE,Clothng,1080.34,13
+02ace23e-a229-4ae9-aa96-e412c07d226b,2025-06-13,  Leconte ,H0me,1052.6,9
+d6d36486-29de-4f63-8a87-30920e9d1f4a,2025-06-11,Robert S.A.R.L.,Clothing,244.54,20
+77dc2af1-e483-4eee-95af-cd79c016b03f,2025-10-14,Valette et Fils,Books,850.94,1
+1d63ce2f-4a2c-4228-b4bf-6984140da51c,2025-03-18,  Payet SA ,Hom,158.04,12
+67650d8f-f5f0-4498-9606-1f1bad10c0e1,2025-08-20,Legros,Books,698.34,2
+94b5c7a7-fbc2-4b56-9ce4-ec5e943333d7,2025-09-10,Leconte,Books,800.53,15
+67e50c2b-9eb1-43c2-86eb-4395b84f0718,2025-10-22,IMBERT ET FILS,Software,790.86,20
+a70ee1c8-e6b6-40d4-b52e-683fbe49b2b4,2025-12-11,Seguin Benard S.A.,Clothing,120.05,12
+0cd66b09-4fa9-4a78-b460-4c8f82a81212,2025-10-19,Costa Da Silva S.A.,Clothing,1297.4,9
+7d59a114-0b59-49cf-80cf-49b95fc720ae,TBD,Nguyen,Clothing,45.26,7
+d6bf2b9e-16e1-4934-8ae0-ef875cc369ef,2025-04-05,Carre,Electronics,119.16,7
+6eb4317d-ffc4-46e5-b184-84e73f3c63bd,30/10/2025,Carpentier,Electronic,933.12,18
+a24f0dd0-7e0f-4936-9399-3371b1f3cd92,2025-04-24,Dupuis,Books,"$1,379.89",17
+11dc922f-b39e-4746-afc2-9c66e993d921,20/11/2025,Louis,Software,"37,92 €",3
+6a41aae3-0341-47db-9a63-a35f90324d94,2025-05-13,ADAM,Clothing,1122.68,14
+57474460-bb81-4c20-b021-ba85233820a5,2025-05-09,Colas,H0me,112.75,11
+b4ca0c58-9c8a-4f59-87b1-b93b6a7d3012,2026-01-28,  Techer ,Books,127.18,10
+2de7fdfc-61a8-4752-ab6a-0f1f704d7853,2025-04-22,Marty,Books,1327.36,14
+dd4f751d-798c-452d-9994-f355495ff683,2024-02-30,Boutin,Home,1055.71,3
+b9043d66-57df-421b-b267-b33a630b7e49,09/01/2026,Pichon S.A.S.,Electronics,$100.31,11
+9087f5dc-b05b-4281-a5a0-123e2afc873e,18/11/2025,Courtois,Clothing,404.05,4
+c5d98856-bce1-44de-b705-b210ac8a9e6a,2025-02-12,  Verdier ,Books,995.16,7
+c8c06140-d548-4021-85ee-a70b9db69f5d,2025-07-25,Maillard,Electronics,278.82,10
+17303478-b6ba-4d47-830e-bb4e811b887c,2025-08-12,  Roux ,Home,245.04,18

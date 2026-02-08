@@ -1,0 +1,77 @@
+GUIDE D'INSTALLATION - PROJET ANALYSE AVIS STORES
+=================================================
+
+Bienvenue dans ce cours ! Voici les étapes pour configurer votre ordinateur de zéro.
+
+1. CHOIX DE L'ÉDITEUR DE CODE (IDE)
+-----------------------------------
+Vous avez plusieurs excellentes options aujourd'hui. Choisissez celle qui vous inspire le plus !
+
+OPTION A : VS Code (Le Classique - Recommandé pour commencer)
+   - Téléchargement : https://code.visualstudio.com/
+   - C'est la référence mondiale. Gratuit et robuste.
+
+OPTION B : Cursor (L'IDE IA Populaire)
+   - Téléchargement : https://cursor.com/
+   - Un clone de VS Code avec une IA très puissante intégrée. Tout fonctionne comme dans VS Code.
+
+OPTION C : Antigravity (Le Nouvel IDE de Google)
+   - Téléchargement : https://antigravity.google/product
+   - Le tout nouvel environnement de développement assisté par IA créé par Google. Très prometteur !
+
+*Note : Quel que soit votre choix, assurez-vous d'avoir les extensions "Python" et "Jupyter" installées. (logo en forme de petits blocs dans le panneau de gauche)
+
+2. INSTALLATION DE PYTHON
+-------------------------
+   - Allez sur : https://www.python.org/downloads/
+   - Téléchargez la dernière version stable (3.12 ou 3.13 recommandées).
+   - ⚠️ TRÈS IMPORTANT : Lors de l'installation, cochez impérativement la case "Add Python to PATH" en bas de la fenêtre.
+
+3. CRÉATION DU PROJET
+---------------------
+   - Créez un dossier sur votre bureau (ex: "data cleaning").
+   - Mettez-y les fichiers de ce cours (notamment `requirements.txt`).
+   - Ouvrez ce dossier avec votre IDE (Fichier > Ouvrir le dossier).
+
+4. LE "BAC À SABLE" (Environnement Virtuel)
+-------------------------------------------
+   Pour ne pas mélanger les versions de Python, on crée un environnement isolé.
+   Ouvrez le terminal de l'IDE (Menu Terminal > Nouveau Terminal) et lancez :
+
+   # Windows
+   python -m venv .venv
+   .venv\Scripts\activate
+
+   # Mac / Linux
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+   (Si ça marche, vous verrez `(.venv)` s'afficher au début de votre ligne de commande).
+
+5. INSTALLATION DES LIBRAIRIES
+------------------------------
+   Plus besoin de tout taper à la main ! On utilise le fichier liste.
+   Assurez-vous que le fichier `requirements.txt` est bien à la racine du dossier.
+
+   Tapez dans le terminal :
+   
+   pip install -r requirements.txt
+
+6. CLÉ API GEMINI (Votre Cerveau IA)
+------------------------------------
+   a) Allez sur : https://aistudio.google.com/app/apikey (Compte Google requis).
+   b) Cliquez sur "Create API Key" > "Create API key in new project".
+   c) Copiez la clé (commence par "AIza...").
+   d) Dans votre IDE, créez un nouveau fichier nommé `.env` (juste .env).
+   e) Collez votre clé dedans comme ceci :
+      GOOGLE_API_KEY=votre_clé_copiée_ici
+   f) Sauvegardez le fichier.
+
+7. VÉRIFICATION
+---------------
+   - Créez un fichier test.py avec :
+     import streamlit
+     print("Tout est OK !")
+   
+   - Lancez : `python test.py`
+   - Si ça affiche "Tout est OK !", félicitations, vous êtes prêt ! 🎉

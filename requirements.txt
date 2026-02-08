@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+google-generativeai
+plotly
+python-dotenv
+pydantic
+nbformat>=4.2.0
+ipywidgets
+tabulate
+
+ipykernel
